@@ -1,0 +1,53 @@
+body{ font-size:16px;
+      color:#39F;
+ h1{text-align:center;font-family:方正姚体，黑体，宋体；
+     font-size:20px；font-weight:bold;color:#369}
+ h2{font-family:黑体； font-size:16px；font-weight:normal;color:#099}
+ p.h1{line-height:2em}
+ p.h2{line-height:2em}
+ 
+    .nav {
+	font-size: 18px;
+	background-color: #9F0;
+	text-align: center;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+.copyright {
+	text-align: center;
+	margin-bottom: 10px;
+}
+#wrapper{
+	width:100px;
+	height:100px;
+	border:10px solid #F00283;
+	border-color:#000 #AAA #333 #999;
+	}
+
+
+
+
+
+
+<div id="container";margin:0px;min-height:700px>
+   
+   ul{
+	   padding:20px;
+	   border:1px solid #CCC;
+	   }
+
+
+ li{
+	 height:30px;
+	 line-height:30px;
+	 list-style-image:url(../../190808117%20%E5%BC%A0%E8%BF%85%20%E5%AE%9E%E9%AA%8C2/images/IMG_4162.JPG);
+	 color:#39F;
+	 font-size:14px;
+	 border-bottom:1px dotted #DDD；
+	 }
+	
+	
+
+	
+	
